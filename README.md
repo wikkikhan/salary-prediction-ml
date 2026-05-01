@@ -18,4 +18,4 @@ An end-to-end machine learning project that predicts salary based on user demogr
 ## Run Locally
 ```bash
 streamlit run app.py
-```
+```"# salary-prediction-ml" 
