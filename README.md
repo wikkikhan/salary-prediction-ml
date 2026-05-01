@@ -80,27 +80,6 @@ Models used:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-salary-prediction-ml/
-│
-├── data/
-│   └── salary_data.csv
-│
-├── notebooks/
-│   └── salary.ipynb
-│
-├── model.pkl
-├── columns.pkl
-├── encoder.pkl
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ▶️ Run Locally
 
 Clone repository:
@@ -161,7 +140,7 @@ Predicted Salary: $65,000+
 
 ## 👨‍💻 Author
 
-**Waqar Khan**
+**Waqar Ahmad**
 
 GitHub: https://github.com/wikkikhan
 
